@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+	
+	int A , B;
+	
+	cout << " please enter the num A? " << endl;
+	cin >> A;
+	
+	cout << " please enter the num B? " << endl;
+	cin >> B;
+	
+	int Area = A * B;
+	
+	cout << Area << endl;
+
+
+	
+	return 0;
+	
+}
